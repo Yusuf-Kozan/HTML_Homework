@@ -52,7 +52,7 @@ header {
 
 #column-2 {
     width: calc(100% - 4vw);
-    padding: 2vh 2vw;
+    padding: 3vh 2vw;
     margin: 3vh auto;
     border-radius: 20px;
     background-color: #66a6ff;
@@ -84,6 +84,9 @@ header {
     border-color: transparent;
     border-radius: 0;
     border-bottom: solid 3px #0055cc;
+}
+#orcid {
+    margin-top: 4vh;
 }
 @media (orientation: landscape)
 {
