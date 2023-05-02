@@ -6,6 +6,8 @@ I am studying software engineering at Kocaeli University and this program is a h
 * I used a monochromatic colour scheme, #0069ff being the main colour.
 * I designed the layout to look like the information is on cards with rounded corners.
 
+> The page is live at <https://yusuf-kozan.github.io/HTML_Homework/homework.html>
+
 ---
 
 ## **License**
